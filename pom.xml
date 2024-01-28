@@ -30,6 +30,7 @@
     </dependencies>
 
     <build>
+        <finalName>jenkinsapp.jar</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
